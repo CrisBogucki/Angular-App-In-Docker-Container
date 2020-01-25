@@ -142,4 +142,4 @@ hosted from web server nginx
        87f736fa52cf        docker-ng-image                  "nginx -g 'daemon of…"   29 seconds ago      Up 28 seconds       0.0.0.0:8080->80/tcp     dicker-ng-container
     ```
    
-   Successful - your app is now hosted from docker container
+   Successful - your app is now hosted from docker container. Open your app at url http://localhost:8080
