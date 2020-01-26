@@ -135,7 +135,7 @@ hosted from web server nginx
        node                                   12.7-alpine         d97a436daee9        6 months ago        79.3MB
     ```
 
-5. And last command to run container `docker run --name dicker-ng-container -d -p 8080:80 docker-ng-image`
+5. And last command to run container `docker run --name docker-ng-container -d -p 8080:80 docker-ng-image`
 6. We check if the container has been created with command `docker ps`
     ```
        CONTAINER ID        IMAGE                            COMMAND                  CREATED             STATUS              PORTS                    NAMES
