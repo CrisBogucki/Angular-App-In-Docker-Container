@@ -1,5 +1,6 @@
 # Angular app in docker container  
 hosted from web server nginx
+![](https://wuschools.com/wp-content/uploads/2020/01/angulardocker.jpg)
 
 ### Step by step how to do :-)
 
